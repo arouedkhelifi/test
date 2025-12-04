@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/wiem-kb/exam.git'
+                git url: 'https://github.com/arouedkhelifi/test.git'
             }
         }
 
